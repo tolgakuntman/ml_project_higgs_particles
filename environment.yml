@@ -1,0 +1,26 @@
+name: ml_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - git
+  - pandas
+  - numpy
+  - tqdm
+  - requests
+  - pyyaml
+  - python-dateutil
+  - matplotlib
+  - networkx
+  - tabulate
+  - jupyterlab
+  - openpyxl
+  - lxml
+  - beautifulsoup4
+  - regex
+  - tldextract
+  - seaborn
+  - pip:
+      - scikit-learn

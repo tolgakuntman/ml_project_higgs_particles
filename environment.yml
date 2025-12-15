@@ -24,3 +24,5 @@ dependencies:
   - seaborn
   - pip:
       - scikit-learn
+      - pythorch-lightning
+      - torch

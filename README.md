@@ -97,11 +97,6 @@ machine_learning_project/
 
 ## Getting Started
 
-### Prerequisites
-
-- [Conda](https://docs.conda.io/en/latest/miniconda.html) (Miniconda or Anaconda)
-- Git
-
 ### Installation
 
 1. **Create the Conda environment**
